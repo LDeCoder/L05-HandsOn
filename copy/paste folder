@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel = "stylesheet" href="style.css">
+
+
+    <title>Document</title>
+</head>
+<div class="header-container">
+    <div class="header">
+        <h1>Fishing Trip!</h1>
+    </div>
+</div>
+<div class="image-grid-container">
+    <div class="image-grid">
+        <div class="image-grid-item first-item">
+            <img src="fishing trip/1.jpg" />
+        <!-- </div><div class="image-grid-item second-item">
+            <img src="fishing trip/2.jpg" />
+         </div> <div class="image-grid-item third-item">
+            <img src="fishing trip/3.jpg" />
+         </div> <div class="image-grid-item fourth-item">
+            <img src="fishing trip/4.jpg" />
+        </div> <div class="image-grid-item fifth-item">
+             <img src="fishing trip/5.jpg" />
+         </div> <div class="image-grid-item sixth-item">
+             <img src="fishing trip/6.jpg" />
+         </div> <div class="image-grid-item seventh-item">
+            <img src="fishing trip/7.jpg" />
+         </div> <div class="image-grid-item eighth-item">
+             <img src="fishing trip/8.jpg" />
+        </div> <div class="image-grid-item ninth-item">
+            <img src="fishing trip/9.jpg" />
+         </div> <div class="image-grid-item tenth-item">
+             <img src="fishing trip/10.jpg" /> -->
+         </div>
+    </div>
+</div>
+
+</body>
+</html>
+
+
+

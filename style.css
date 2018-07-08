@@ -1,0 +1,39 @@
+.header {
+    justify-content: center;
+    background-color:blueviolet;
+    color: white;
+    height: 100px;
+    font-size: 30px;
+    baseline: 5px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.text {
+    color: blueviolet;
+    justify-content: center;
+    box-sizing: border-box;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+}
+
+#Pictures {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    flex-wrap: wrap;
+    border-color: aqua;
+    border size: 10px
+    padding: 20px 20px;
+
+}
+/* 
+Why does my footer not work?
+.footer {
+    justify-content: center;
+    background-color:blueviolet;
+    color: white;
+    height: 100px;
+    font-size: 30px;
+    baseline: 5px;
+    font-family: 'Shadows Into Light', cursive;
+} */
